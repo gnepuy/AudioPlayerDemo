@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buyed</key>
+	<integer>0</integer>
+	<key>dtList</key>
+	<array>
+		<dict>
+			<key>author</key>
+			<string>马克·郭世顿</string>
+			<key>businessId</key>
+			<integer>166</integer>
+			<key>buyed</key>
+			<integer>0</integer>
+			<key>content</key>
+			<string>&lt;section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;"&gt;&lt;p style="line-height: 2em;"&gt;&lt;span style="font-size: 15px;"&gt;要和神经病打交道，你先要知道他们为什么不正常。怎么面对生活中容易遇到的四种“神经病”，并且和他们正常交流呢？&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style=";font-family:微软雅黑;font-size:15px"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;line-height:150%;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;color:#393939;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";font-family: 微软雅黑;font-size: 15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #333333; letter-spacing: 0px; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="line-height: 150%; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 2em; text-align: justify;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="white-space: pre-wrap; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #3F3F3F; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 宋体, SimSun; font-size: 15px; color: #3F3F3F;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei;"&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei; color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style="text-align:center;font-size: 16px;"&gt;&lt;span style="color: rgb(89, 89, 89);"&gt;&lt;span style="font-size: 14px;"&gt;&lt;span style="font-weight: 700;"&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>0</integer>
+			<key>image</key>
+			<string>/file/content/201833/201803031617545_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>http://resource.bigfile.app.chuxinketing.com/mp3/2018/03/03/9ecadbd20ee24d3abbd595b4b5881663.mp3</string>
+			<key>playType</key>
+			<integer>9</integer>
+			<key>price</key>
+			<real>0.0</real>
+			<key>timeLength</key>
+			<string>00:04:47</string>
+			<key>title</key>
+			<string>第一讲：理解神经病！</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>马克·郭世顿</string>
+			<key>businessId</key>
+			<integer>167</integer>
+			<key>buyed</key>
+			<integer>0</integer>
+			<key>content</key>
+			<string>&lt;section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;"&gt;&lt;p style="line-height: 2em;"&gt;&lt;span style="font-size: 15px;"&gt;和神经病交流，最错误的方式就是和他“讲道理”。而正确的方式呢？则是钻到神经病的“脑子里”。&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style=";font-family:微软雅黑;font-size:15px"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;line-height:150%;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;color:#393939;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";font-family: 微软雅黑;font-size: 15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #333333; letter-spacing: 0px; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="line-height: 150%; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 2em; text-align: justify;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="white-space: pre-wrap; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #3F3F3F; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 宋体, SimSun; font-size: 15px; color: #3F3F3F;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei;"&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei; color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style="text-align:center;font-size: 16px;"&gt;&lt;span style="color: rgb(89, 89, 89);"&gt;&lt;span style="font-size: 14px;"&gt;&lt;span style="font-weight: 700;"&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>0</integer>
+			<key>image</key>
+			<string>/file/content/201833/201803031654795_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>http://resource.bigfile.app.chuxinketing.com/mp3/2018/03/03/9477c0fc0a084354b7239da6d0255e15.mp3</string>
+			<key>playType</key>
+			<integer>9</integer>
+			<key>price</key>
+			<real>0.0</real>
+			<key>timeLength</key>
+			<string>00:06:14</string>
+			<key>title</key>
+			<string>第二讲：捅开疯狂大脑的钥匙！</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>马克·郭世顿</string>
+			<key>businessId</key>
+			<integer>168</integer>
+			<key>buyed</key>
+			<integer>0</integer>
+			<key>content</key>
+			<string>&lt;section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;"&gt;&lt;p style="line-height: 2em;"&gt;&lt;span style="font-size: 15px;"&gt;我们都不想和神经病交流。但是如果真的避无可避，在交流中，我们要怎么保持理智呢？&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style=";font-family:微软雅黑;font-size:15px"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;line-height:150%;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;color:#393939;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";font-family: 微软雅黑;font-size: 15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #333333; letter-spacing: 0px; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="line-height: 150%; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 2em; text-align: justify;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="white-space: pre-wrap; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #3F3F3F; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 宋体, SimSun; font-size: 15px; color: #3F3F3F;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei;"&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei; color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style="text-align:center;font-size: 16px;"&gt;&lt;span style="color: rgb(89, 89, 89);"&gt;&lt;span style="font-size: 14px;"&gt;&lt;span style="font-weight: 700;"&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>0</integer>
+			<key>image</key>
+			<string>/file/content/201833/201803031604898_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>http://resource.bigfile.app.chuxinketing.com/mp3/2018/03/03/809d742b54a24d83b0ae4897005c9e64.mp3</string>
+			<key>playType</key>
+			<integer>9</integer>
+			<key>price</key>
+			<real>0.0</real>
+			<key>timeLength</key>
+			<string>00:05:25</string>
+			<key>title</key>
+			<string>第三讲：从非战则逃到理性循环！</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>马克·郭世顿</string>
+			<key>businessId</key>
+			<integer>171</integer>
+			<key>buyed</key>
+			<integer>0</integer>
+			<key>content</key>
+			<string>&lt;section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;"&gt;&lt;p style="line-height: 2em;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;要和神经病沟通，你需要知道他们抽疯的原因。那么，人为什么会抽疯？&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style=";font-family:微软雅黑;font-size:15px"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;line-height:150%;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;color:#393939;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";font-family: 微软雅黑;font-size: 15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #333333; letter-spacing: 0px; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="line-height: 150%; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 2em; text-align: justify;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="white-space: pre-wrap; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #3F3F3F; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 宋体, SimSun; font-size: 15px; color: #3F3F3F;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei;"&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei; color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style="text-align:center;font-size: 16px;"&gt;&lt;span style="color: rgb(89, 89, 89);"&gt;&lt;span style="font-size: 14px;"&gt;&lt;span style="font-weight: 700;"&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>0</integer>
+			<key>image</key>
+			<string>/file/content/201834/201803041657402_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>http://resource.bigfile.app.chuxinketing.com/mp3/2018/03/04/29630c6a76f649a6ab3b3db2514b4970.mp3</string>
+			<key>playType</key>
+			<integer>9</integer>
+			<key>price</key>
+			<real>0.0</real>
+			<key>timeLength</key>
+			<string>00:03:00</string>
+			<key>title</key>
+			<string>第四讲：人为什么会抽疯？</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>马克·郭世顿</string>
+			<key>businessId</key>
+			<integer>172</integer>
+			<key>buyed</key>
+			<integer>0</integer>
+			<key>content</key>
+			<string>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&lt;o:OfficeDocumentSettings&gt;&lt;/o:OfficeDocumentSettings&gt;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&lt;w:WordDocument&gt;&lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;&lt;w:DisplayHorizontalDrawingGridEvery&gt;0&lt;/w:DisplayHorizontalDrawingGridEvery&gt;&lt;w:DisplayVerticalDrawingGridEvery&gt;2&lt;/w:DisplayVerticalDrawingGridEvery&gt;&lt;w:DocumentKind&gt;DocumentNotSpecified&lt;/w:DocumentKind&gt;&lt;w:DrawingGridVerticalSpacing&gt;7.8 磅&lt;/w:DrawingGridVerticalSpacing&gt;&lt;w:PunctuationKerning&gt;&lt;/w:PunctuationKerning&gt;&lt;w:View&gt;Normal&lt;/w:View&gt;&lt;w:Compatibility&gt;&lt;w:DontGrowAutofit&gt;&lt;/w:DontGrowAutofit&gt;&lt;w:BalanceSingleByteDoubleByteWidth&gt;&lt;/w:BalanceSingleByteDoubleByteWidth&gt;&lt;w:DoNotExpandShiftReturn&gt;&lt;/w:DoNotExpandShiftReturn&gt;&lt;w:UseFELayout&gt;&lt;/w:UseFELayout&gt;&lt;/w:Compatibility&gt;&lt;w:Zoom&gt;0&lt;/w:Zoom&gt;&lt;/w:WordDocument&gt;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&lt;w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" &gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 7" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 8" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 9" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 7" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 8" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 9" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 7" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 8" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toc 9" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Indent" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="header" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footer" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index heading" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="caption" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of figures" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope address" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope return" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote reference" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation reference" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="line number" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="page number" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote reference" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of authorities" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="macro" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toa heading" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Title" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Closing" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Signature" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Message Header" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Subtitle" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Salutation" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Date" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Note Heading" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Block Text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Hyperlink" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="FollowedHyperlink" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Strong" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Emphasis" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Document Map" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Plain Text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="E-mail Signature" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal (Web)" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Acronym" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Address" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Cite" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Code" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Definition" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Keyboard" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Preformatted" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Sample" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Typewriter" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Variable" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation subject" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Balloon Text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" &gt;&lt;/w:LsdException&gt;
+&lt;/w:LatentStyles&gt;&lt;/xml&gt;&lt;![endif]--&gt;&lt;section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;"&gt;&lt;p style="line-height: 2em;"&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;要理解疯狂，先要明白人们为什么会抽疯。接下来，我们就快速了解一下心智的运行方式，看看它是怎么变得不正常的。&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style=";font-family:微软雅黑;font-size:15px"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;line-height:150%;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;color:#393939;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";font-family: 微软雅黑;font-size: 15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style=";;font-family:微软雅黑;font-size:15px;font-family:微软雅黑"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #333333; letter-spacing: 0px; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="line-height: 150%; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 2em; text-align: justify;"&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="white-space: pre-wrap; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="letter-spacing: 0px; font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; color: #3F3F3F; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 微软雅黑; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-family: 宋体, SimSun; font-size: 15px; color: #3F3F3F;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="color: #3E3E3E; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Emoji Symbols Font&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, Arial, sans-serif; font-size: 15px;"&gt;&lt;/span&gt;&lt;span style="font-size: 15px; font-family: 微软雅黑;"&gt;&lt;/span&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei;"&gt;&lt;span style="font-weight: normal; font-size: 15px; font-family: 微软雅黑,Microsoft YaHei; color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style="text-align:center;font-size: 16px;"&gt;&lt;span style="color: rgb(89, 89, 89);"&gt;&lt;span style="font-size: 14px;"&gt;&lt;span style="font-weight: 700;"&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>0</integer>
+			<key>image</key>
+			<string>/file/content/201835/201803051150828_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>http://resource.bigfile.app.chuxinketing.com/mp3/2018/03/05/3f69a75e1dfd41449fbd04df21e09f98.mp3</string>
+			<key>playType</key>
+			<integer>9</integer>
+			<key>price</key>
+			<real>0.0</real>
+			<key>timeLength</key>
+			<string>00:05:09</string>
+			<key>title</key>
+			<string>第5讲疯狂背后的科学！</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>fee</key>
+	<integer>0</integer>
+	<key>price</key>
+	<real>0.0</real>
+	<key>title</key>
+	<string>别让“神经病”把你逼疯了！(限时免费)</string>
+</dict>
+</plist>

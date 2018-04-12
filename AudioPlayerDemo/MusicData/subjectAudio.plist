@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buyed</key>
+	<integer>1</integer>
+	<key>dtList</key>
+	<array>
+		<dict>
+			<key>businessId</key>
+			<integer>5</integer>
+			<key>buyed</key>
+			<integer>1</integer>
+			<key>content</key>
+			<string>&lt;section style=&quot;font-size: 16px;&quot; label=&quot;Powered by 135editor.com&quot; data-role=&quot;outer&quot;&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 15px;&quot;&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;现实生活中，很多女孩子经常抱怨，自己还不如男朋友的兄弟，感觉自己在男朋友的心里根本就没什么位置，但有时候感觉男朋友对自己也挺好。爱情对于男生来说到底意味着什么？难道爱情只是他们生活中的一剂“调味品”吗？&lt;span style=&quot;line-height: 2em; font-family: 微软雅黑; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(89, 89, 89);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>1</integer>
+			<key>image</key>
+			<string>/file/content/20171121/201711211349856_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>/file/content/20171120/201711201818398.mp3</string>
+			<key>playType</key>
+			<integer>7</integer>
+			<key>price</key>
+			<real>1.99</real>
+			<key>timeLength</key>
+			<string>00:08:12</string>
+			<key>title</key>
+			<string>爱情是男人的“调味品”而非“必需品”？</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>businessId</key>
+			<integer>8</integer>
+			<key>buyed</key>
+			<integer>1</integer>
+			<key>content</key>
+			<string>&lt;section style=&quot;font-size: 16px;&quot; label=&quot;Powered by 135editor.com&quot; data-role=&quot;outer&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 15px;&quot;&gt;&lt;p&gt;吵架时最让人崩溃的一件事莫过于，你在那里大发雷霆，而他却依旧默不作声或者干脆选择默默的离开，自己就像小丑一样。他越是这样，就会让你变得更加烦躁，一直这样恶性循环下去。当男人沉默的时候，他们心里到底是怎么想的呢？怎么才能看透他们心中的那些小心思搞定他？&lt;span style=&quot;line-height: 2em; font-family: 微软雅黑; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(89, 89, 89);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;陪伴 &amp;nbsp; 倾诉 &amp;nbsp; 疏导 &amp;nbsp; 舒心&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 2em;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/section&gt;</string>
+			<key>fee</key>
+			<integer>1</integer>
+			<key>image</key>
+			<string>/file/content/20171121/201711211358207_zip.jpg</string>
+			<key>linkUrl</key>
+			<string>/file/content/20171120/201711201842024.mp3</string>
+			<key>playType</key>
+			<integer>7</integer>
+			<key>price</key>
+			<real>1.99</real>
+			<key>timeLength</key>
+			<string>00:09:47</string>
+			<key>title</key>
+			<string>女人如何看破男人沉默的背后？</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>fee</key>
+	<integer>1</integer>
+	<key>price</key>
+	<real>20.99</real>
+	<key>title</key>
+	<string>男神心里那些小九九，教你一眼看穿尽掌握</string>
+</dict>
+</plist>
